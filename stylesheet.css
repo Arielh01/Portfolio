@@ -1,14 +1,24 @@
 body {background-color:rgb(0, 0, 0); }
-h1 {color: teal}
-h2 {color: aquamarine}
-h3 {color: bisque}
+h1 {color: #3baddd}
+h2 {color: #7b77ff}
+h3 {color: #01fef4}
 p {color: white}
-p {font-family: verdana;
-  font-size: 16px;
-}
 h1 {
     text-align: center;
 }
 h2 {
     text-align: center;
+}
+li {color: white}
+p {
+    font-family: 'Lekton', sans-serif;
+}
+li {
+font-family: 'Lekton', sans-serif;
+}
+h1 {
+font-family: 'Oswald', sans-serif;
+}
+h2 {
+    font-family: 'Oswald', sans-serif;
 }
